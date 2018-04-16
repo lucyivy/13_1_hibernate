@@ -24,6 +24,8 @@ public class BigmacTestSuite {
         Assert.assertEquals(3, bigmac.getBurgers());
         Assert.assertEquals("Garlic", bigmac.getSauce());
         Assert.assertEquals(4, howManyIngredients);
+
+
     }
 }
 
